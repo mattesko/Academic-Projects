@@ -1,0 +1,3 @@
+[submodule "ECSE489-DnsClient"]
+	path = ECSE489-DnsClient
+	url = git@github.com:mattesko/DnsClient.git
