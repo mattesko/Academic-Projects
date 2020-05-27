@@ -35,10 +35,10 @@ __Note:__ `COMP` and `ECSE` are course code prefixes. `COMP` courses are offered
 
 <h2 id="comp-767-reinforcement-learning">COMP-767 Reinforcement Learning</h2>
 <h3 id="comp-767-reinforcement-learning-p" style="display: inline;"><a href="https://github.com/mattesko/Transfer-Deep-Reinforcement-Learning">Final Project</a></h3>
-<img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/></br>
+<!-- <img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/></br> -->
 
 <h2 id="ecse-489-telecommunications-lab" style="display: inline;"><a href="https://github.com/mattesko/DnsClient">ECSE-489 Telecommunications Lab DnsClient</a></h2> 
-<img src="icons/java-original.svg" class="icon" style="width: 3%;display: inline;"/><br>
+<!-- <img src="icons/java-original.svg" class="icon" style="width: 3%;display: inline;"/><br> -->
 
 This was a team project for a telecommunications and networking laboratory course. 
 My teammate and I implemented a command line Domain Name Service (DNS) client in Java.
@@ -49,7 +49,7 @@ Project installation and source code is available [here](https://github.com/matt
 <h2 id="ecse-415-computer-vision">ECSE-415 Computer Vision</h2>
 
 <h3 id="ecse-415-computer-vision-a" style="display: inline;"><a href="https://github.com/mattesko/ECSE415-Assignments" >Assignments</a></h3> 
-<img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/>
+<!-- <img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/> -->
 
 <!-- ## [ECSE-415 Computer Vision](https://github.com/mattesko/ECSE415-Assignments) ![icon][python-icon] -->
 I used Python 3.7 and OpenCV to accomplish computer vision tasks involving: 
@@ -62,7 +62,7 @@ I used Python 3.7 and OpenCV to accomplish computer vision tasks involving:
 - [Edge detection using Laplace of Gaussians](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/LoG_edge.ipynb) and [Sobel filters](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/sobel_edge.ipynb), [denoising](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/denoising.ipynb), and [sharpness enhancing](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/sharpening.ipynb);
 
 <h3 id="ecse-415-computer-vision-p" style="display: inline;"><a href="https://github.com/tristantoupin/ECSE415-FinalProject">Final Project: Vehicle Classification and Localization</a></h3> 
-<img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/>
+<!-- <img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/> -->
 
 This was a team project of 4 people to train different machine learning models for vehicle classification and detection. Our team used Python 3.7, OpenCV, Scikit-Learn, and Keras. 
 A [final report](https://github.com/tristantoupin/ECSE415-FinalProject/blob/master/docs/ECSE_415_Project_Report.pdf) accompanies the project.
