@@ -1,11 +1,3 @@
----
-title: "README.md"
-author: "Matthew Lesko-Krleza"
-output: 
-  html_document:
-     css: styles/styles.css
-     self_contained: yes
----
 <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
 <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
 
@@ -42,15 +34,12 @@ __Note:__ `COMP` and `ECSE` are course code prefixes. `COMP` courses are offered
 
 
 <h2 id="comp-767-reinforcement-learning">COMP-767 Reinforcement Learning</h2>
-<h3 id="comp-767-reinforcement-learning-p">
-  <a href="https://github.com/mattesko/Transfer-Deep-Reinforcement-Learning">Final Project</a>
-  <img src="icons/python-original.svg" class="icon" style="width: 3%;">
-</h3>
+<h3 id="comp-767-reinforcement-learning-p" style="display: inline;"><a href="https://github.com/mattesko/Transfer-Deep-Reinforcement-Learning">Final Project</a></h3>
+<img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/></br>
 
-<h2 id="ecse-489-telecommunications-lab">
-  <a href="https://github.com/mattesko/DnsClient">ECSE-489 Telecommunications Lab DnsClient</a>
-  <img src="icons/java-original.svg" class="icon" style="width: 3%;">
-</h2> 
+<h2 id="ecse-489-telecommunications-lab" style="display: inline;"><a href="https://github.com/mattesko/DnsClient">ECSE-489 Telecommunications Lab DnsClient</a></h2> 
+<img src="icons/java-original.svg" class="icon" style="width: 3%;display: inline;"/><br>
+
 This was a team project for a telecommunications and networking laboratory course. 
 My teammate and I implemented a command line Domain Name Service (DNS) client in Java.
 The client supports A, MX and NS query types. 
@@ -59,10 +48,8 @@ Project installation and source code is available [here](https://github.com/matt
 
 <h2 id="ecse-415-computer-vision">ECSE-415 Computer Vision</h2>
 
-<h3 id="ecse-415-computer-vision-a">
-  <a href="https://github.com/mattesko/ECSE415-Assignments">Assignments</a>
-  <img src="icons/python-original.svg" class="icon" style="width: 3%;">
-</h3> 
+<h3 id="ecse-415-computer-vision-a" style="display: inline;"><a href="https://github.com/mattesko/ECSE415-Assignments" >Assignments</a></h3> 
+<img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/>
 
 <!-- ## [ECSE-415 Computer Vision](https://github.com/mattesko/ECSE415-Assignments) ![icon][python-icon] -->
 I used Python 3.7 and OpenCV to accomplish computer vision tasks involving: 
@@ -74,10 +61,8 @@ I used Python 3.7 and OpenCV to accomplish computer vision tasks involving:
 - [Vehicle logo image classification](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_2/classification.ipynb) using HoG features and K-Nearest-Neighbors;
 - [Edge detection using Laplace of Gaussians](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/LoG_edge.ipynb) and [Sobel filters](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/sobel_edge.ipynb), [denoising](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/denoising.ipynb), and [sharpness enhancing](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/sharpening.ipynb);
 
-<h3 id="ecse-415-computer-vision-p">
-  <a href="https://github.com/tristantoupin/ECSE415-FinalProject">Final Project: Vehicle Classification and Localization</a>
-  <img src="icons/python-original.svg" class="icon" style="width: 3%;">
-</h3> 
+<h3 id="ecse-415-computer-vision-p" style="display: inline;"><a href="https://github.com/tristantoupin/ECSE415-FinalProject">Final Project: Vehicle Classification and Localization</a></h3> 
+<img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/>
 
 This was a team project of 4 people to train different machine learning models for vehicle classification and detection. Our team used Python 3.7, OpenCV, Scikit-Learn, and Keras. 
 A [final report](https://github.com/tristantoupin/ECSE415-FinalProject/blob/master/docs/ECSE_415_Project_Report.pdf) accompanies the project.
