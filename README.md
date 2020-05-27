@@ -13,15 +13,16 @@ output:
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#description"> General Description</a></li>
-  <li>COMP-767 Reinforcement Learning:</li>
+  <li><a href="#comp-767-reinforcement-learning">COMP-767 Reinforcement Learning:</a></li>
   <ul>
+    <li><a href="#comp-767-reinforcement-learning-a">Assignments</a></li>
     <li><a href="#comp-767-reinforcement-learning-p">Final Project: State and Policy Representation Transfer in Reinforcement Learning</a></li>
   </ul>
   <li><a href="#comp424-artificial-intelligence">COMP 424 - Artificial Intelligence</a></li>
-  <li>ECSE-415 Computer Vision:</li>
+  <li><a href="ecse-415-computer-vision-a">ECSE-415 Computer Vision:</a></li>
   <ul>
-    <li><a href="ecse-415-computer-vision-a">Assignments</li>
-    <li><a href="ecse-415-computer-vision-p">Final Project</li>
+    <li><a href="ecse-415-computer-vision-a">Assignments</a></li>
+    <li><a href="ecse-415-computer-vision-p">Final Project: Vehicle Classification and Localization</a></li>
   </ul>
   <li><a href="#ecse-489-telecommunications-lab">ECSE-489 Telecommunications Lab DNS Client</a>
 </ul>
@@ -39,11 +40,12 @@ installing, running or just clarifying more about the project.
 
 __Note:__ `COMP` and `ECSE` are course code prefixes. `COMP` courses are offered by the School of Computer Science whereas `ECSE` courses are offered by the Faculty of Electrical, Computer and Software Engineering. Also this is a work in progress, existing or new work is added periodically to this list.
 
-<h2 id="comp-767-reinforcement-learning-p">
-  <a href="https://github.com/mattesko/Transfer-Deep-Reinforcement-Learning">
-COMP-767 Reinforcement Learning Final Project
+
+<h2 id="comp-767-reinforcement-learning">COMP-767 Reinforcement Learning</h2>
+<h3 id="comp-767-reinforcement-learning-p">
+  <a href="https://github.com/mattesko/Transfer-Deep-Reinforcement-Learning">Final Project</a>
   <img src="icons/python-original.svg" class="icon">
-</h2>
+</h3>
 
 <h2 id="ecse-489-telecommunications-lab">
   <a href="https://github.com/mattesko/DnsClient">ECSE-489 Telecommunications Lab DnsClient</a>
@@ -55,10 +57,12 @@ The client supports A, MX and NS query types.
 
 Project installation and source code is available [here](https://github.com/mattesko/DnsClient).
 
-<h2 id="ecse-415-computer-vision-a">
-  <a href="https://github.com/mattesko/ECSE415-Assignments">ECSE-415 Computer Vision Assignments</a>
+<h2 id="ecse-415-computer-vision">ECSE-415 Computer Vision</h2>
+
+<h3 id="ecse-415-computer-vision-a">
+  <a href="https://github.com/mattesko/ECSE415-Assignments">Assignments</a>
   <img src="icons/python-original.svg" class="icon">
-</h2> 
+</h3> 
 
 <!-- ## [ECSE-415 Computer Vision](https://github.com/mattesko/ECSE415-Assignments) ![icon][python-icon] -->
 I used Python 3.7 and OpenCV to accomplish computer vision tasks involving: 
@@ -70,10 +74,10 @@ I used Python 3.7 and OpenCV to accomplish computer vision tasks involving:
 - [Vehicle logo image classification](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_2/classification.ipynb) using HoG features and K-Nearest-Neighbors;
 - [Edge detection using Laplace of Gaussians](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/LoG_edge.ipynb) and [Sobel filters](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/sobel_edge.ipynb), [denoising](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/denoising.ipynb), and [sharpness enhancing](https://github.com/mattesko/ECSE415-Assignments/blob/master/Assignment_1/sharpening.ipynb);
 
-<h2 id="ecse-415-computer-vision-">
-  <a href="https://github.com/tristantoupin/ECSE415-FinalProject">ECSE-415 Computer Vision Final Project</a>
+<h3 id="ecse-415-computer-vision-p">
+  <a href="https://github.com/tristantoupin/ECSE415-FinalProject">Final Project: Vehicle Classification and Localization</a>
   <img src="icons/python-original.svg" class="icon">
-</h2> 
+</h3> 
 
 This was a team project of 4 people to train different machine learning models for vehicle classification and detection. Our team used Python 3.7, OpenCV, Scikit-Learn, and Keras. 
 A [final report](https://github.com/tristantoupin/ECSE415-FinalProject/blob/master/docs/ECSE_415_Project_Report.pdf) accompanies the project.
@@ -82,7 +86,7 @@ I worked on developing a machine learning pipeline involving Histogram of Orient
 
 My team also trained and evaluated the YOLOv3 model for vehicle [classification](https://github.com/tristantoupin/ECSE415-FinalProject/blob/master/classification/CNN.ipynb) and [bounding box localization](https://github.com/tristantoupin/ECSE415-FinalProject/tree/master/localization). Here's an example output from the localizer:
 
-<img src="figures/ecse-415-computer-vision/project_example.png">
+![Localizer Example](figures/ecse-415-computer-vision/project_example.png)
 
 <!-- References to images -->
 [java-icon]: icons/java-original.svg
