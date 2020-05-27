@@ -44,12 +44,12 @@ __Note:__ `COMP` and `ECSE` are course code prefixes. `COMP` courses are offered
 <h2 id="comp-767-reinforcement-learning">COMP-767 Reinforcement Learning</h2>
 <h3 id="comp-767-reinforcement-learning-p">
   <a href="https://github.com/mattesko/Transfer-Deep-Reinforcement-Learning">Final Project</a>
-  <img src="icons/python-original.svg" class="icon">
+  <img src="icons/python-original.svg" class="icon" style="width: 3%;">
 </h3>
 
 <h2 id="ecse-489-telecommunications-lab">
   <a href="https://github.com/mattesko/DnsClient">ECSE-489 Telecommunications Lab DnsClient</a>
-  <img src="icons/java-original.svg" class="icon">
+  <img src="icons/java-original.svg" class="icon" style="width: 3%;">
 </h2> 
 This was a team project for a telecommunications and networking laboratory course. 
 My teammate and I implemented a command line Domain Name Service (DNS) client in Java.
@@ -61,7 +61,7 @@ Project installation and source code is available [here](https://github.com/matt
 
 <h3 id="ecse-415-computer-vision-a">
   <a href="https://github.com/mattesko/ECSE415-Assignments">Assignments</a>
-  <img src="icons/python-original.svg" class="icon">
+  <img src="icons/python-original.svg" class="icon" style="width: 3%;">
 </h3> 
 
 <!-- ## [ECSE-415 Computer Vision](https://github.com/mattesko/ECSE415-Assignments) ![icon][python-icon] -->
@@ -76,7 +76,7 @@ I used Python 3.7 and OpenCV to accomplish computer vision tasks involving:
 
 <h3 id="ecse-415-computer-vision-p">
   <a href="https://github.com/tristantoupin/ECSE415-FinalProject">Final Project: Vehicle Classification and Localization</a>
-  <img src="icons/python-original.svg" class="icon">
+  <img src="icons/python-original.svg" class="icon" style="width: 3%;">
 </h3> 
 
 This was a team project of 4 people to train different machine learning models for vehicle classification and detection. Our team used Python 3.7, OpenCV, Scikit-Learn, and Keras. 
