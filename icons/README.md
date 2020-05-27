@@ -1,1 +1,1 @@
-Icons used are courtesy of [https://github.com/konpa/devicon/](Dev Icon)
+Icons used are courtesy of [Dev Icon](https://github.com/konpa/devicon/)
