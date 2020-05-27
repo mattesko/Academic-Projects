@@ -64,7 +64,8 @@ I used Python 3.7 and OpenCV to accomplish computer vision tasks involving:
 <h3 id="ecse-415-computer-vision-p" style="display: inline;"><a href="https://github.com/tristantoupin/ECSE415-FinalProject">Final Project: Vehicle Classification and Localization</a></h3> 
 <!-- <img src="icons/python-original.svg" class="icon" style="width: 3%;display: inline;"/> -->
 
-This was a team project of 4 people to train different machine learning models for vehicle classification and detection. Our team used Python 3.7, OpenCV, Scikit-Learn, and Keras. 
+This was a team project of 4 people to train different machine learning models for vehicle classification and detection. Our team used Python 3.7, OpenCV, Scikit-Learn, and Keras.
+We used the [MIO-TCD vehicle dataset](http://tcd.miovision.com/). 
 A [final report](https://github.com/tristantoupin/ECSE415-FinalProject/blob/master/docs/ECSE_415_Project_Report.pdf) accompanies the project.
 
 I worked on developing a machine learning pipeline involving Histogram of Orientation feature extraction and SVM classifier training and evaluation which can be viewed [here](https://github.com/tristantoupin/ECSE415-FinalProject/blob/master/classification/SVM_classifier.ipynb).
